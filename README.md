@@ -1,12 +1,7 @@
 # POKÉDEX
 
-### Nome dos integrantes 
-- João Vitor Gomes Lara Resende.
-- Rafael Gonçalves Quintanilha Guimarães.
-- Nei Luis Duarte Tavares Junior.
-
 ### Link do Surge 
-https://hungry-stage.surge.sh/
+https://pokedex-web.surge.sh/
 
 ### O que funciona
 - Navegação entre as páginas através de botões devidamente definidos (inclusive o logo no Header que leva para a lista de Pokémons).
@@ -37,11 +32,8 @@ https://hungry-stage.surge.sh/
      - Pagination gerenciam todos os 151 Pokémons, funcionando juntamente com os filtros.
      - Sons ao clicar nos botões de navegação, nos botões de adicionar e remover da Pokédex.
      - Sons exclusivos de cada Pokémon ao clicar no botão de detalhes.
-     - Vídeo 'RapPokémon' ao pegar todos eles + música diferente ao entrar na pokédex! rs
+     - Vídeo 'RapPokémon' ao pegar todos eles + música diferente ao entrar na pokédex.
      - Uma mensagem é renderizada quando a Pokédex está vazia.
-     - Adicionada função toggle ao clicar no logo: Se alguns Pokémons estiverem na dex, o botão remove todos eles, do contrário, ele adiciona todos nela. (Para que o usuário possa testar as funcionalidades da Dex cheia.)
-     
-- Observação: O limite de Pokémons na Pokédex é de 25 devido ao espaço limitado do localStorage - *resolvido (render-local-fix).
      
 ### Imagens
 ![1](https://user-images.githubusercontent.com/102267210/189549802-048814da-6a2e-45d3-b068-633c6f73b041.png)
