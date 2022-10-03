@@ -1,5 +1,8 @@
 # POKÉDEX
 
+### Sobre
+Website que simula a Pokédex, aonde o usuário pode capturar os Pokémons, ver os detalhes dos mesmos e remover da Pokédex. A API utilizada na realização desse projeto está em https://pokeapi.co/.
+
 ### Link do Surge 
 https://pokedex-web.surge.sh/
 
