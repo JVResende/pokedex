@@ -12,31 +12,31 @@ https://pokedex-web.surge.sh/
 
 - Pokémons List: 
      - List of cards with Pokémon information.
-      - Pagination (16 cards rendered per page).
-      - Button in the header to navigate to the Pokédex.
-      - Card buttons:
-         - Add: Adds the Pokémon to the Pokédex.
-         - Details: Opens the Pokémon details page.
+     - Pagination (16 cards rendered per page).
+     - Button in the header to navigate to the Pokédex.
+     - Card buttons:
+        - Add: Adds the Pokémon to the Pokédex.
+        - Details: Opens the Pokémon details page.
 - Pokédex:
-      - List of cards with information on pokémons that were added to the Pokédex.
-      - Pagination (16 cards rendered per page).
-      - Button in the header to navigate back to the pokemon list.
-      - Card buttons:
-         - Remove: Removes the Pokémon from the Pokédex.
-         - Details: Opens the Pokémon details page.
+     - List of cards with information on pokémons that were added to the Pokédex.
+     - Pagination (16 cards rendered per page).
+     - Button in the header to navigate back to the pokemon list.
+     - Card buttons:
+        - Remove: Removes the Pokémon from the Pokédex.
+        - Details: Opens the Pokémon details page.
 - Details page:
-      - List with the information of the Pokémon.
-      - Buttons in the header to go back to the last page and to add to the Pokédex (if you clicked on the card in the Pokémon list) or remove from the Pokédex (if you clicked on the card in the Pokédex).
+     - List with the information of the Pokémon.
+     - Buttons in the header to go back to the last page and to add to the Pokédex (if you clicked on the card in the Pokémon list) or remove from the Pokédex (if you clicked on the card in the Pokédex).
      
 - Extra features:
-      - When reloading the page (F5) the Pokémon that were added to the Pokédex are still there and they do not appear in the Pokémon list.
-      - Filters by name or number and type.
-      - Sorting by name or number.
-      - Pagination manage all 151 Pokémons, working together with the filters.
-      - Sounds when clicking on the navigation buttons, on the add and remove buttons from the Pokédex.
-      - Exclusive sounds for each Pokémon when clicking on the details button.
-      - Video 'RapPokémon' when catching all of them + different music when entering the pokédex.
-      - A message is rendered when the Pokédex is empty.
+     - When reloading the page (F5) the Pokémon that were added to the Pokédex are still there and they do not appear in the Pokémon list.
+     - Filters by name or number and type.
+     - Sorting by name or number.
+     - Pagination manage all 151 Pokémons, working together with the filters.
+     - Sounds when clicking on the navigation buttons, on the add and remove buttons from the Pokédex.
+     - Exclusive sounds for each Pokémon when clicking on the details button.
+     - Video 'RapPokémon' when catching all of them + different music when entering the pokédex.
+     - A message is rendered when the Pokédex is empty.
      
 ### Images
 ![1](https://user-images.githubusercontent.com/102267210/189549802-048814da-6a2e-45d3-b068-633c6f73b041.png)
