@@ -1,12 +1,12 @@
 # POKÉDEX
 
-### About
+## 📄 About
 Website that simulates the Pokédex, where the user can capture Pokémons, see their details and remove them from the Pokédex. The API used in the realization of this project is at https://pokeapi.co/.
 
-### Link to Access
+## 🔗 Link to Access
 https://pokedex-web.surge.sh/
 
-### What works
+## 💻 Functionalities
 - Navigation between pages through properly defined buttons (including the Header logo that leads to the Pokémon list).
 - Responsiveness.
 
@@ -38,7 +38,35 @@ https://pokedex-web.surge.sh/
      - Video 'RapPokémon' when catching all of them + different music when entering the pokédex.
      - A message is rendered when the Pokédex is empty.
      
-### Images
+## ⚙️ Setup
+
+Clone down this repository. You will need node and npm installed globally on your machine.
+
+- Installation:
+
+```
+  $ npm install
+  $ npm install axios
+  $ npm install styled-components
+  $ npm install react-router-dom
+```
+
+- To start the project:
+
+```
+  $ npm start
+```
+
+Now just test it in your browser!
+
+## 🛠 Technologies
+
+- React.js
+- API
+- Axios
+- React-Router-Dom
+     
+## 📷 Images
 ![1](https://user-images.githubusercontent.com/102267210/189549802-048814da-6a2e-45d3-b068-633c6f73b041.png)
 ![2](https://user-images.githubusercontent.com/102267210/189549804-83fe679a-7e79-49ca-9aba-ff6eda2a19a1.png)
 ![3](https://user-images.githubusercontent.com/102267210/189550834-ef8fa33b-175e-47b8-b2ed-edbd1ef61c29.png)
